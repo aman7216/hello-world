@@ -22,7 +22,7 @@ class p2
         int lastDigit = n%10;
         int RemainingNumber = n/10; 
         
-        int La = lastDigit*100+RemainingNumber;
+        int gnannrta = lastDigit*100+RemainingNumber;
         int 
        System.out.println(c);
         // anw: 543
