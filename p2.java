@@ -9,7 +9,7 @@ class p2
             return true;
         }
         else{
-            // System.out.println("It is not a palindrome");
+            // System.out.println("not a palindrome");
             return false;
         }
         
